@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Berkay-Akar
-- 👀 I’m interested in everything about coding.
+- :microscope: Passionate about creating impactful software that makes a difference.
 
 <!---
 Berkay-Akar/Berkay-Akar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
